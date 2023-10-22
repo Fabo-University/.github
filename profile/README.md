@@ -1,41 +1,37 @@
-<h1 align='center'> University Fabo </h1>
+<h1 align='center'> Facultad Fabo </h1>
 
 
-<h2>
- <img src="https://media.giphy.com/media/1uoimlAhEqR8I/giphy.gif" height="30" /> Primero Licenciatura en Informatica 2021
-<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/1uoimlAhEqR8I/giphy.gif" height="30" /></h2>
+<h2>Primero Licenciatura en Informatica 2021</h2>
 
-  <p align="left">
-    <a href="https://github.com/Fabian-Martinez-Rincon/CADP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CADP&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/Fabian-Martinez-Rincon/Taller-de-Programacion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Taller-de-Programacion&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/Fabian-Martinez-Rincon/Arquitectura-de-Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Arquitectura-de-Computadoras&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
-        <a href="https://github.com/Fabian-Martinez-Rincon/Mega-Conversor-OC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Mega-Conversor-OC&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
-        <a href="https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Fabian-Martinez-Rincon.github.io&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
-        <a href="https://github.com/MITH-arg/EI-Materias"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MITH-arg&repo=EI-Materias&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
-  </p>
+<p align="left">
+<a href="https://github.com/Fabo-University/CADP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=CADP&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/Fabo-University/Taller-de-Programacion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Taller-de-Programacion&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabo-University/Arquitectura-de-Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Arquitectura-de-Computadoras&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
+<a href="https://github.com/Fabo-University/EPA"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=EPA&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
+<a href="https://github.com/Fabo-University/Organizacion_de_Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Organizacion_de_Computadoras&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
 
-<h2>
- <img src="https://media.giphy.com/media/BWAzEOq1fOO1W/giphy.gif" height="30" /> Segundo Licenciatura en Informatica 2022
-<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/BWAzEOq1fOO1W/giphy.gif" height="30" /></h2>
+</p>
 
-  <p align="left">
-    <a href="https://github.com/Fabian-Martinez-Rincon/FOD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=FOD&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
-    <a href="https://github.com/Fabian-Martinez-Rincon/AyED"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ayed&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/Fabian-Martinez-Rincon/Seminario-de-Lenguajes-Python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Seminario-de-Lenguajes-Python&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/Fabian-Martinez-Rincon/OO1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=OO1&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
-    <a href="https://github.com/Fabian-Martinez-Rincon/ISO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ISO&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/Fabian-Martinez-Rincon/IS1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=IS1&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-    
+<h2>Segundo Licenciatura en Informatica 2022</h2>
+
+<p align="left">
+<a href="https://github.com/Fabo-University/FOD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=FOD&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabo-University/AyED"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=ayed&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/Fabo-University/Seminario-de-Lenguajes-Python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Seminario-de-Lenguajes-Python&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabo-University/Orientacion-a-Objetos1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Orientacion-a-Objetos1&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabo-University/ISO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=ISO&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/Fabo-University/Ingenieria-de-Software1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Ingenieria-de-Software1&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabo-University/DBD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=DBD&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   </p>
   
-<h2>
- <img src="https://media.giphy.com/media/UD9n7OAteFCTu/giphy.gif" height="30" /> Tercero Licenciatura en Informatica 2023
-<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/UD9n7OAteFCTu/giphy.gif" height="30" /></h2>
+<h2>Tercero Licenciatura en Informatica 2023</h2>
 
-  <p align="left">
-    <a href="https://github.com/Fabian-Martinez-Rincon/Proyecto-de-Software"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Proyecto-de-Software&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/Fabian-Martinez-Rincon/Programacion-Concurrente"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Programacion-Concurrente&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>
-    <a href="https://github.com/Fabian-Martinez-Rincon/Redes-y-Comunicaciones"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Redes-y-Comunicaciones&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>
-  </p>
+<p align="left">
+<a href="https://github.com/Fabo-University/Proyecto-de-Software"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Proyecto-de-Software&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D8669&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabo-University/Programacion-Concurrente"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Programacion-Concurrente&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D8669&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabo-University/Redes-y-Comunicaciones"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Redes-y-Comunicaciones&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D8669&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabo-University/CyC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=CyC&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D8669&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabo-University/CPLP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=CPLP&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D8669&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
+</p>
 
 
