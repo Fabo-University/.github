@@ -1,6 +1,7 @@
 <h1 align='center'> University Fabo </h1>
 
-![nosotros (1)](https://github.com/Fabo-University/.github/assets/55964635/0e964f27-141b-4ca6-a1eb-307835d00fd9)
+![nueva](https://github.com/Fabo-University/.github/assets/55964635/226449b1-e945-4264-abd4-d75b98bd965c)
+
 
 <h2>
  <img src="https://media.giphy.com/media/1uoimlAhEqR8I/giphy.gif" height="30" /> Primero Licenciatura en Informatica 2021
