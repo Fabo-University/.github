@@ -1,10 +1,8 @@
 <h1 align='center'> Facultad Fabo </h1>
 
 <div align='center'>
-
-![toothpick-cool](https://github.com/Fabo-University/.github/assets/55964635/5791d80c-362e-4760-833a-38b771d11acc)
-
-
+  
+![cr7](https://github.com/Fabo-University/.github/assets/55964635/9bc69417-b4e0-410a-a077-21d0ae1c4bc2)
 
 <h2>Primero Licenciatura en Informatica 2021</h2>
 
